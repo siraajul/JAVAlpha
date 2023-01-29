@@ -10,7 +10,7 @@ public class evenodd {
         System.out.print("Enter The Number: ");
         int number = input.nextInt();
 
-        if(number%2==0){
+        if(number %2 == 0){
             System.out.println(number+" is Even Number");
         }
         else{
