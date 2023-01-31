@@ -7,10 +7,14 @@ public class QuestionTwo {
 
         Scanner input = new Scanner(System.in);
 
+        System.out.print("Enter Your Body Temperature : ");
         double temp = input.nextDouble();
 
         if(temp>=100){
             System.out.println("You Have Fever");
+        }
+        else {
+            System.out.println("You Don't Have Fever");
         }
     }
 }
