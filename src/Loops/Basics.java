@@ -5,6 +5,7 @@ public class Basics {
         System.out.println("Hello");
         System.out.println("Same");
         System.out.println("Hello");
+        System.out.println("Mouse");
 
         //While Loop
         //For Loop
