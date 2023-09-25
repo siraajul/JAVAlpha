@@ -12,7 +12,7 @@ public class threenumberavarage {
         //This will help to taking input from user
         Scanner input = new Scanner(System.in);
 
-        //taking 3 number as a input
+        //taking 3 number as an input
     System.out.println("Enter the First Number: ");
     int first_number = input.nextInt();
     System.out.println("Enter the Second Number: ");
